@@ -1,15 +1,14 @@
 ---
-layout: horizontal
+layout: vertical
 permalink: /
 published: true
 title: Home
 ---
-
-# Huisstijlgids Antenne 3000 vzw
-
-
+![logo]({{ '/images/kinderen.png' | relative_url }}){: .w-100}
+# Antenne 3000 vzw - Huisstijlhandboek
+***
 ## Antenne 3000
-  Antenne 3000 is een centrum voor ambulante revalidatie en begeleidt kinderen en jongeren op verschillende ontwikkelingsdomeinen. Specifiek kunnen volgende doelgroepen bij Antenne terecht: normaalbegaafde kinderen met en ernstige aandachtsdeficiÃ«ntie, ASS of een complexe ontwikkelingsstoornis.
+  Antenne 3000 is een centrum voor ambulante revalidatie en begeleidt kinderen en jongeren op verschillende ontwikkelingsdomeinen. Specifiek kunnen volgende doelgroepen bij Antenne terecht: normaalbegaafde kinderen met en ernstige aandachtsdeficiëntie, ASS of een complexe ontwikkelingsstoornis.
 
 ## Huisstijl
 

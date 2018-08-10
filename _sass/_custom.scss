@@ -3,10 +3,9 @@
 */
 .navbar a {
     border: none;
+    font-family: 'Dosis', sans-serif;
     
 }
-
-
 /* FOOTER
 ----------------------------------------------
 sticked to the bottom with small content pages
@@ -30,33 +29,72 @@ body {
 }
 
 footer {
-    background-color: $mycolor-2;
-    color: $color-white;
+    background-color:#F4DD6F;
+    font-family: 'Dosis', sans-serif;
+    color: #1A4955;
     a {
-        color: $color-white;
+        color: #1A4955;
         &:hover {
-            
-        }
+      }
     }
 }
 
+footer div{
+  padding-bottom: 10px;
+}
+
+.tekstfooter {
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Dosis', sans-serif;
+}
 h1{
   color:#1A4955;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Dosis', sans-serif;
   font-size: 15mm;
   padding-left: 20px;
-  padding-top: 70px;
+  padding-top: 0px;
   padding-bottom: 20px;
+  text-align: center;
 }
 
 h2{
   color: #1A4955;
   padding-left: 20px;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+}
+
+h3{
+  color: #1A4955;
+  padding-left: 20px;
+  text-align: center;
+  margin-bottom: 20pt;
+  font-family: 'Dosis', sans-serif;
 }
 
 p{
-  font-family: 'Lato', sans-serif;
-  padding-left: 50px;
+  font-family: 'Dosis', sans-serif;
+  padding-left: 100px;
+  color: #1A4955;
+  text-align: center;
+  font-size: 12pt;
+}
+
+h5{
+  color:#1A4955;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  padding-bottom: 10px;
+  font-size: 10pt;
+}
+
+
+hr{
+  width: 15%;
+  border: 2px solid #F4DD6F;
 }
 
 /* BACK TO TOP
@@ -70,7 +108,7 @@ p{
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color:$mycolor-3; /* Set a background color */
+  background-color: #1A4955; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   //padding: 15px; /* Some padding */
