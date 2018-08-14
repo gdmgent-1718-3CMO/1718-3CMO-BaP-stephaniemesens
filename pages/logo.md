@@ -15,7 +15,7 @@ Het logo wordt toegepast op alle communicatiedragers van Antenne 3000 vzw. De ve
 
 
   
-![logo]({{ '/images/logo.svg' | relative_url }}){: .w-25}
+![logo]({{ '/images/index.svg' | relative_url }}){: .w-25}
 
 ### Horizontale logo
 
@@ -34,5 +34,3 @@ Het logo is opgebouwd uit een beeldmerk en woordmerk 'CAR Antenne 3000 vzw', de 
 
 ![logo]({{ '/images/watnietkan-01.svg' | relative_url }}){: .w-33}
 
-
-<a href="images/voorbeelden/naamkaartje.jpg" data-lightbox="mijnreeks" data-title="Naamkaartje"><img src="images/voorbeelden/naamkaartje.jpg" alt="naamkaartje" class="w-33"></a>

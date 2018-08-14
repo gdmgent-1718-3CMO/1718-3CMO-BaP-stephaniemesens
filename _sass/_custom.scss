@@ -6,6 +6,33 @@
     font-family: 'Dosis', sans-serif;
     
 }
+
+
+table{
+ width: 100%;
+ max-width: 100%;
+ font-family: 'Dosis', sans-serif;
+ text-align: center;
+ border-bottom: 1px;
+ color: #1A4955;
+}
+
+td{
+border-top: 1px solid lightgrey;
+}
+
+.btn.btn-primary{
+  background-color: #1A4955;
+  border: none;
+  border-radius: 0%;
+}
+
+.btn.btn-primary:hover{
+  background-color: #F4DD6F;
+  color: #1A4955;
+  border: none;
+  border-radius: 0%;
+}
 /* FOOTER
 ----------------------------------------------
 sticked to the bottom with small content pages
