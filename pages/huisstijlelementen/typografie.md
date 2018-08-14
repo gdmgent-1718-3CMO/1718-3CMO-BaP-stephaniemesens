@@ -28,5 +28,7 @@ Bold
 
 ## Details lettergroottes
 
-## Download fonts
 
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EkyR0muyP0JOhnJMxRIImo4BpIAvD3i8Ji3YYNw2gQZ6yg?e=vLXKLT">
+<button class="btn btn-block btn-primary btntoepassing"> Download fonts</button>
+</a>
