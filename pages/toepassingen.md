@@ -5,7 +5,7 @@ published: true
 title: Toepassingen
 ---
 
-# Toepassingen
+# TOEPASSINGEN
 ***
 
 De huisstijl van Antenne vzw  werd doorgetrokken in allerlei aspecten. Hieronder volgt een overzicht van alle toepassingen.
@@ -16,7 +16,7 @@ Het briefpapier wordt gebruikt voor alle commerciële doeleinden en is ontworpen
 
 ![mijn afbeelding alt-txt]({{ '/images/briefhoofd.svg' | relative_url }}){: .w-100}
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EfwdPWdL4S5ElAicx78VJv4Bdkp-MkjcqiDY3bUA9i993g?e=70xZTT">
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EfwdPWdL4S5ElAicx78VJv4Bdkp-MkjcqiDY3bUA9i993g?e=70xZTT" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download het briefpapier</button>
 </a>
 
@@ -34,8 +34,8 @@ Afmeting | Fonts | Papier
 55mm x 85mm | Dosis | Uncoated
 
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EfwdPWdL4S5ElAicx78VJv4Bdkp-MkjcqiDY3bUA9i993g?e=70xZTT">
-<button class="btn btn-block btn-primary btntoepassing"> Download een visitekaartje</button>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/stepmese_student_arteveldehs_be/EXHngvl0B7JMq_3zBcxiS-0Bvi_hyzLmCeZEQeZ3hvnOhw?e=d5Ghdx" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download de template</button>
 </a>
   
 ## FLYER
@@ -44,12 +44,12 @@ Afmeting | Fonts | Papier
 
 Technische specificaties
 
-Afmeting | Fonts | Papier
------------- | ------------- | ------------ 
-148mm x 210mm | Dosis | Uncoated
+Afmeting | Afloop  | Fonts | Papier
+------------ | ------------- | ------------ | ------------ 
+148mm x 210mm | 3 mm  | Dosis | Uncoated
 
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EfwdPWdL4S5ElAicx78VJv4Bdkp-MkjcqiDY3bUA9i993g?e=70xZTT">
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EgDbLBJNw5lPo2Dtm7rg338BfJu9Uc2ZHmhTBEt4S64_cA?e=Tjz4kX" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download de template</button>
 </a>
 
@@ -57,6 +57,13 @@ Afmeting | Fonts | Papier
 
 ## NIEUWSBRIEF
 
-## BANNER
+## FACEBOOK BANNER
+
+![mijn afbeelding alt-txt]({{ '/images/facebook.png' | relative_url }}){: .w-100}
+
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:i:/g/personal/stepmese_student_arteveldehs_be/EfbKQ2rGSwZMmuq1V22ahvgBwRbCGYfALn9ZUeusAjMtxg?e=pqdwSS" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download banner</button>
+</a>
 
 ## POWERPOINT

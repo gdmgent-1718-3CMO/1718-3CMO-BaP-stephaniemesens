@@ -2,11 +2,18 @@
 ---------------------------------------------
 */
 .navbar a {
-    border: none;
+    border:none;
     font-family: 'Dosis', sans-serif;
     
 }
 
+.navbar {
+  border-right: 2px solid #F4DD6F;
+}
+
+body{
+ padding-top: 50px;
+}
 
 table{
  width: 100%;
@@ -25,6 +32,7 @@ border-top: 1px solid lightgrey;
   background-color: #1A4955;
   border: none;
   border-radius: 0%;
+  margin-top:30px;
 }
 
 .btn.btn-primary:hover{
@@ -32,6 +40,48 @@ border-top: 1px solid lightgrey;
   color: #1A4955;
   border: none;
   border-radius: 0%;
+}
+
+a:hover{
+  background-color: #F4DD6F;
+}
+
+a.dropdown-item.active{
+  background-color: #1A4955;
+}
+
+strong{
+  font-weight: 600;
+}
+
+main ol li::before{
+  background-color: #1A4955;
+  border-radius:10px;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+
+}
+
+main ol li{
+
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  color:#1A4955;
+  font-weight:400;
+
+}
+
+.arialrounded {
+  font-family: 'Arial Rounded MT regular', 
+}
+
+.jumbotron {
+  border-radius: 0pt;
+  font-family: 'Dosis', sans-serif;
+  font-size: 20pt;
+  line-height: 40px;
+  color:#1A4955;
+  text-align: center;
 }
 /* FOOTER
 ----------------------------------------------

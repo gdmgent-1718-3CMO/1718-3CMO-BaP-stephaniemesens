@@ -5,7 +5,7 @@ published: true
 title: Iconen
 ---
 
-# Iconen
+# ICONEN
 ***
 Aangezien het multidisciplinaire heel balangrijk is voor Antenne, wordt er in de huisstijl een onderscheid gemaakt tussen de verschillende disciplines door gebruik te maken van een ander icoon en kleur.
 
@@ -26,3 +26,7 @@ Aangezien het multidisciplinaire heel balangrijk is voor Antenne, wordt er in de
 ### ADMINISTRATIEF MEDEWERKERS
 
 ![logo]({{ '/images/2.svg' | relative_url }}){: .w-25}
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EjH_sFUkWHFLpFzk9jhuMAUBBPP1qOhH0ZDvK5E1Y015_A?e=2mPZnB" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download iconen</button>
+</a>
