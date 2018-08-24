@@ -16,9 +16,32 @@ Het briefpapier wordt gebruikt voor alle commerciële doeleinden en is ontworpen
 
 ![mijn afbeelding alt-txt]({{ '/images/briefhoofd.svg' | relative_url }}){: .w-100}
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EfwdPWdL4S5ElAicx78VJv4Bdkp-MkjcqiDY3bUA9i993g?e=70xZTT" target="_blank">
+Technische specificaties
+
+Afmeting | Afloop  | Lopende tekst | Regelafstand
+------------ | ------------- | ------------ | ------------ 
+210mm x 297mm | 3 mm  | Dosis 10pt | 13pt
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EpBGEgUBCfhLlBIw5aKqsAcBYE-r2itBczZOUFbVcdp4Tg?e=JgAVxP" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download het briefpapier</button>
 </a>
+
+## ENVELOPPES
+De enveloppes zijn vrij sober. Het logo zorgt in elk geval voor voldoende herkenbaarheid.
+
+![mijn afbeelding alt-txt]({{ '/images/enveloppe.png' | relative_url }}){: .w-100}
+
+
+Technische specificaties
+
+Afmeting | Tekst | Regelafstand
+------------ | ------------- | ------------ 
+EA5/6 - 11X22 cm | Dosis 10pt | 13pt
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EpBGEgUBCfhLlBIw5aKqsAcBYE-r2itBczZOUFbVcdp4Tg?e=JgAVxP" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download enveloppes</button>
+</a>
+
+
 
 ## VISITEKAARTJES
 
@@ -55,6 +78,12 @@ Afmeting | Afloop  | Fonts | Papier
 
 ## WEBSITE
 
+![mijn afbeelding alt-txt]({{ '/images/website.png' | relative_url }}){: .w-100}
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EbS_HWtUMeFJngqMKIMH39EBcsrrN1ntIMOIRxyiDn4U6A?e=qzRmds" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download website ontwerp</button>
+</a>
+
 ## NIEUWSBRIEF
 
 ## FACEBOOK BANNER
@@ -67,3 +96,20 @@ Afmeting | Afloop  | Fonts | Papier
 </a>
 
 ## POWERPOINT
+
+![mijn afbeelding alt-txt]({{ '/images/ppt.png' | relative_url }}){: .w-100}
+
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:p:/g/personal/stepmese_student_arteveldehs_be/ETND_QPiJIRGmUVOooQQMR0BGffV1bEbEEN9NfRV2MS02Q?e=aSPnXn" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download powerpoint template</button>
+</a>
+
+## MUURDECORATIE
+
+Aangezien de verschillende disciplines belangrijk zijn in de werking van de organisatie wordt voor elk lokaal verschillende muurdecoratie gebruikt. Hiervoor gebruiken we de iconen die je kan downloaden via onderstaande knop en de bijhorende discipline. Een voorbeeld wordt hieronder afgebeeld:
+
+![mijn afbeelding alt-txt]({{ '/images/muurdeco.png' | relative_url }}){: .w-50}
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EjH_sFUkWHFLpFzk9jhuMAUBBPP1qOhH0ZDvK5E1Y015_A?e=2mPZnB" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download iconen</button>
+</a>

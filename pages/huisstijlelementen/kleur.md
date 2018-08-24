@@ -7,7 +7,7 @@ title: Kleur
 
 # KLEUR
 ***
-Het gebruik van de huisstijlkleuren voor vlakken en de grafische elementen brengt meer herkenbaarheid in de huisstijl. We hebben enerzijds de blauwe kleur als primaire huisstijlkleur en anderzijds de geel kleur. Deze primaire kleuren vullen we aan met secudaire kleuren die de multidisciplinaire kant van Antenne 3000 benadrukken.
+Het gebruik van de huisstijlkleuren voor vlakken en de grafische elementen brengt meer herkenbaarheid in de huisstijl. We hebben enerzijds de <strong>blauwgroene kleur</strong> als primaire huisstijlkleur en anderzijds de <strong>gele kleur</strong>. Deze primaire kleuren vullen we aan met secudaire kleuren die de multidisciplinaire kant van Antenne 3000 benadrukken.
 
 
 ## Primaire kleuren

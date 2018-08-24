@@ -7,7 +7,7 @@ title: Iconen
 
 # ICONEN
 ***
-Aangezien het multidisciplinaire heel balangrijk is voor Antenne, wordt er in de huisstijl een onderscheid gemaakt tussen de verschillende disciplines door gebruik te maken van een ander icoon en kleur.
+Aangezien het <strong>multidisciplinaire</strong> heel balangrijk is voor Antenne, wordt er in de huisstijl een onderscheid gemaakt tussen de verschillende disciplines door gebruik te maken van een ander icoon en kleur.
 
 ### LOGOPEDIE
 

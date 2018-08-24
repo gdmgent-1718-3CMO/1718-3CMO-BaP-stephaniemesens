@@ -25,8 +25,10 @@
   permalink: /toepassingen
   # fa-icon: icon-info
 
-- name: Styleguide
-  description: Stijlgids voor de Huistijlgids
-  # folder: pages/stijlgids
-  permalink: /stijlgids
+- name: Bronbestanden
+  description: Bronbestanden
+  # folder: pages/bronbestanden
+  permalink: /bronbestanden
   # fa-icon: icon-info
+
+

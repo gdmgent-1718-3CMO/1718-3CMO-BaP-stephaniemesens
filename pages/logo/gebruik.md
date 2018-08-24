@@ -49,12 +49,12 @@ Er zijn enkele afspraken die we maken in verband met het logo. Hieronder worden 
 
 ## ZWARTE VERSIE
 
-Wanneer het logo gebruikt wordt op een toepassing die in grijswaarden wordt afgeprint, moet de zwarte versie van het logo gebruikt worden. Zo blijft het contrast voldoende groot. 
+Wanneer het logo gebruikt wordt op een toepassing die in grijswaarden wordt afgeprint, moet de <strong>zwarte versie</strong> van het logo gebruikt worden. Zo blijft het contrast voldoende groot. 
 
 ![logo]({{ '/images/logozwart.svg' | relative_url }}){: .w-25}
 
 ## ACHTERGRONDKLEUR
 
-Het logo wordt altijd gebruikt op een blanco achtergrond of op de gele huisstijlkleur #F5DE70.
+Het logo wordt altijd gebruikt op een <strong>blanco achtergrond</strong> of op de <strong> gele huisstijlkleur</strong> #F5DE70.
 
  ![logo]({{ '/images/geleachtergrond.svg' | relative_url }}){: .w-25}

@@ -8,13 +8,13 @@ title: Witruimte
 # MINIMALE WITRUIMTE
 ***
 
-Het logo moet in elke situatie goed zichtbaar en goed leesbaar zijn. Daarom moet u altijd de minimale witruimte respecteren. De witruimte wordt aangeduidt met cirkel van het  beeldmerk.
+Het logo moet in elke situatie goed zichtbaar en goed leesbaar zijn. Daarom moet u altijd de <strong>minimale witruimte</strong> respecteren. De witruimte wordt aangeduidt met cirkel van het  beeldmerk.
 
 ![logo]({{ '/images/logowitruimte.svg' | relative_url }}){: .w-50}
 
 ## VOORBEELD WITRUIMTE
 
-Hieronder vind je een voorbeeld van hoeveel witruimte er rond het logo moet zijn, toegepast op het briefpapier. Gebruik altijd de cirkel van het beeldmerk om zo de juiste afmetingen te gebruiken. Er mag altijd meer witruimte rondom het logo zijn, maar nooit minder.
+Hieronder vind je een voorbeeld van hoeveel witruimte er rond het logo moet zijn, toegepast op het briefpapier. Gebruik altijd de <strong>cirkel van het beeldmerk</strong> om zo de juiste afmetingen te gebruiken. Er mag altijd meer witruimte rondom het logo zijn, maar nooit minder.
 
 ![logo]({{ '/images/logowitruimte2.svg' | relative_url }}){: .w-50}
 

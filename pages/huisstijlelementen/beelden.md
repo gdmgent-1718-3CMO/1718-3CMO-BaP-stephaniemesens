@@ -9,7 +9,7 @@ title: Beelden
 ***
 
 
-Beelden zijn een belangrijk onderdeel in onze huisstijl. De beelden moeten duidelijk maken dat de organisatie zich focust op kinderen, daarom moeten er altijd kinderen centraal staan op de beelden. Aangezien het gaat om kinderen met een ontwikkelingsstoornis en de focus ligt op het helpen van de kinderen staan er altijd kinderen op die hulp krijgen of zelf aan het werk zijn. 
+Beelden zijn een belangrijk onderdeel in onze huisstijl. De beelden moeten duidelijk maken dat de organisatie zich focust op <strong>kinderen</strong>, daarom moeten er altijd kinderen centraal staan op de beelden. Aangezien het gaat om kinderen met een ontwikkelingsstoornis en de focus ligt op het helpen van de kinderen staan er altijd kinderen op die hulp krijgen of zelf aan het werk zijn. 
 
 ![logo]({{ '/images/kinderen.png' | relative_url }}){: .w-100}
 
@@ -17,7 +17,7 @@ Beelden zijn een belangrijk onderdeel in onze huisstijl. De beelden moeten duide
 
 ## DUOTONE
 
-Over elk beeld dat we gebruiken, plaatsen we een blauwgroene overlay. Deze beelden worden bewerkt in Photoshop. 
+Over elk beeld dat we gebruiken, plaatsen we een <strong>blauwgroene overlay</strong>. Deze beelden worden bewerkt in Photoshop. 
 Hoe we tot een eindresultaat komen, leggen we stap per stap uit.
 <br>
 1. Importeer het beeld in Photoshop
