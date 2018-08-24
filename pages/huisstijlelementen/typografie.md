@@ -32,12 +32,12 @@ a  b  c  d e f g h i j k l m n o q r s t u v w x y z <br>
 
 </div>
 
-## ARIAL MT BOLD
+## ARIAL ROUNDED MT STD & BOLD
 Voor office toepassingen, zoals de powerpoint template, gebruiken we ook een rounded font. 
 
 <div class = "jumbotron">
 <h3 class="arialrounded">REGULAR</h3> 
-AaBbCc <br>
+<p class="arialrounded">AaBbCc <br>
 
 <h3 class="arialrounded"><strong>BOLD</strong></h3>
 <p class="arialrounded"><strong>AaBbCc</strong></p> <br> 
