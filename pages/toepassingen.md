@@ -16,7 +16,7 @@ Het briefpapier wordt gebruikt voor alle commerciële doeleinden en is ontworpen
 
 ![mijn afbeelding alt-txt]({{ '/images/briefhoofd.svg' | relative_url }}){: .w-100}
 
-Technische specificaties
+<strong>TECHNISCHE SPECIFICATIES</strong>
 
 Afmeting | Afloop  | Lopende tekst | Regelafstand
 ------------ | ------------- | ------------ | ------------ 
@@ -34,7 +34,7 @@ De enveloppes zijn vrij sober. Het logo zorgt in elk geval voor voldoende herken
 ![mijn afbeelding alt-txt]({{ '/images/enveloppe.png' | relative_url }}){: .w-100}
 
 
-Technische specificaties
+<strong>TECHNISCHE SPECIFICATIES</strong>
 
 Afmeting | Tekst | Regelafstand
 ------------ | ------------- | ------------ 
@@ -56,7 +56,7 @@ De visitekaartjes hebben allemaal dezelfde voorkant, aan de acterkant zijn ze ve
 ![mijn afbeelding alt-txt]({{ '/images/visitekaartjes.svg' | relative_url }}){: .w-100}
 ![mijn afbeelding alt-txt]({{ '/images/visitetechnisch.svg' | relative_url }}){: .w-50}
 
-Technische specificaties
+<strong>TECHNISCHE SPECIFICATIES</strong>
 
 Afmeting | Adres | Regelafstand | Naam | Regelafstand 
 ------------ | ------------- | ------------ | ------------  
@@ -69,22 +69,30 @@ Voor de visitekaartjes gebruiken we een staand formaat van 55mm x 85 mm. De name
 <button class="btn btn-block btn-primary btntoepassing"> Download de template</button>
 </a>
   
-## FLYER
-![mijn afbeelding alt-txt]({{ '/images/flyer.png' | relative_url }}){: .w-100}
+## FOLDER
+
+De folder geeft meer informatie over de werking van de vzw. Het wordt ontworpen op een standaard 3-luik formaat van 100 x 210 mm, zo kunnen ze makkelijk besteld worden in grote aantallen bij online drukkerijen.
+
+![mijn afbeelding alt-txt]({{ '/images/folder1.png' | relative_url }}){: .w-50}
+![mijn afbeelding alt-txt]({{ '/images/folder2.png' | relative_url }}){: .w-75}
 
 
-Technische specificaties
+<strong>TECHNISCHE SPECIFICATIES</strong>
 
-Afmeting | Afloop  | Fonts | Papier
------------- | ------------- | ------------ | ------------ 
-148mm x 210mm | 3 mm  | Dosis | Uncoated
+<strong>Afmeting:</strong> 3-luik formaat van 100 x 210 mm
+<strong>Marges:</strong> er wordt gewerkt met marges van 22mm bovenaan, 22mm onderaan en 12mm zowel links als rechts.<br>
+<strong>Afbeeldingen:</strong> de afbeeldingen staan altijd in een rechthoekig vlak.<br>
+<strong>Titels:</strong> de titels worden geschreven in Dosis 30pt met 36pt interlinie.<br>
+<strong>Lopende tekst:</strong> lopende tekst wordt weergegeven in Dosis 11pt met 14pt interlinie. Wanneer er een extra klemtoon nodig is op bepaalde woorden, worden deze in bold geplaatst.<br>
+<strong>Bladschikking:</strong>op elk luik wordt er gewerkt in verschillende horizontale kolommen. Op elk luik komt minstens één luik of geel kleurenvlak voor. 
 
-
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EgDbLBJNw5lPo2Dtm7rg338BfJu9Uc2ZHmhTBEt4S64_cA?e=Tjz4kX" target="_blank">
-<button class="btn btn-block btn-primary btntoepassing"> Download de template</button>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EhQVpUEtzHZCmZUhtC8kROoBMLYaiu5fMSiOJ9U2h4ju3g?e=xdJRM4" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download de folder</button>
 </a>
 
 ## WEBSITE
+
+Voor de website werden duidelijke huisstijlelementen van Antenne 3000 gebruikt, zo is de herkanbaarheid groot.
 
 ![mijn afbeelding alt-txt]({{ '/images/website.png' | relative_url }}){: .w-100}
 
@@ -94,7 +102,34 @@ Afmeting | Afloop  | Fonts | Papier
 
 ## NIEUWSBRIEF
 
+De nieuwsbrief wordt maandelijks verstuurd naar ouders, zo worden zij op hoogte gehouden van het reilen en zeilen van de vzw. Het ontwerp werd gemaakt in <strong>Mailchimp</strong>, onderstaande link geeft toegang tot deze template. Zo kan iedereen in de vzw zelf mails verzenden. Een voorbeeld van een mail vind je hier: 
+
+![mijn afbeelding alt-txt]({{ '/images/nieuwsbrief.svg' | relative_url }}){: .w-25}
+
+Tekst wordt zo veel mogelijk als tekst in de nieuwsbrief geladen, en dus niet als afbeelding erin geplakt. Dit is om ervoor te zorgen dat de mails ten allen tijde goed leesbaar zijn. <br>
+
+Bovenaan komt een herkenbaar beeld van Antenne 3000. Wat volgt is een <strong>persoonlijke aanspreking</strong> met de voornaam van de aangeschreven persoon. Teksten krijgen het lettertype Dosis 12pt (titels 18pt) in de blauwgroene huisstijlkleur. 
+
+<strong>ZELF EEN MAIL VERSTUREN VIA MAILCHIMP</strong>
+
+1. <strong>To</strong>: voeg alle contacten toe naar wie je de nieuwsbrief wil sturen. Je kan deze zelf controleren via 'lijsten'
+<br>
+2. <strong>From</strong>: voeg je eigen e-mailadres in
+<br>
+3. <strong>Subject</strong>: voeg het onderwerp van de mail in
+<br>
+4. <strong>Content</strong>: via 'edit design' kan je de inhoud van de mail bewerken. Als je beelden wil toevoegen kan dat via 'content manager'
+<br>
+5. <strong>Klaar?</strong> Stuur jezelf een testmail en wanneer je helemaal klaar bent druk je op 'send'
+
+
+<a href="https://us17.admin.mailchimp.com/campaigns/edit?id=282855" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Mailchimp template </button>
+</a>
+
 ## FACEBOOK BANNER
+
+Aangezien Antenne 3000 nu nog niet aanwezig is op sociale media, heb ik voor in de toekomst de stijl van de facebook banner bepaald en een facebookpagina gesimuleerd.
 
 ![mijn afbeelding alt-txt]({{ '/images/facebook.png' | relative_url }}){: .w-100}
 
@@ -104,6 +139,8 @@ Afmeting | Afloop  | Fonts | Papier
 </a>
 
 ## POWERPOINT
+
+<strong>Powerpoint-presentaties</strong> zijn een belangrijk middel in de werking van de wzv. Ze worden vaak gebruikt door medewerkers en hebben zo ook een duidelijke uniforme stijl nodig. Voor de verschillende <strong>soorten dia's </strong>bestaat er een bepaalde template die gevolgd moet worden. Daarom bestaan er templates voor titeldia's, dia's met een beeld, dia's met opsomming en slotdia's.
 
 ![mijn afbeelding alt-txt]({{ '/images/ppt.png' | relative_url }}){: .w-100}
 
@@ -119,12 +156,15 @@ Afmeting | Afloop  | Fonts | Papier
 </a>
 
 
+
+
 ## MUURDECORATIE
 
-Aangezien de verschillende disciplines belangrijk zijn in de werking van de organisatie wordt voor elk lokaal verschillende muurdecoratie gebruikt. Hiervoor gebruiken we de iconen die je kan downloaden via onderstaande knop en de bijhorende discipline. Een voorbeeld wordt hieronder afgebeeld:
+Aangezien de <strong>verschillende disciplines</strong> belangrijk zijn in de werking van de organisatie wordt voor elk lokaal verschillende muurdecoratie gebruikt. Hiervoor gebruiken we de iconen die je kan downloaden via onderstaande knop en de bijhorende discipline. Een voorbeeld wordt hieronder afgebeeld:
 
 ![mijn afbeelding alt-txt]({{ '/images/muurdeco.png' | relative_url }}){: .w-50}
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EjH_sFUkWHFLpFzk9jhuMAUBBPP1qOhH0ZDvK5E1Y015_A?e=2mPZnB" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download iconen</button>
 </a>
+
