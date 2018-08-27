@@ -22,6 +22,8 @@ Afmeting | Afloop  | Lopende tekst | Regelafstand
 ------------ | ------------- | ------------ | ------------ 
 210mm x 297mm | 3 mm  | Dosis 10pt | 13pt
 
+<br>
+Het briefpapier is in lijn met de huisstijl van Antenne 3000, zo wordt er met gele vlakken gewerkt. Dit zorgt ervoor dat het papier een afloop heeft en zo bij een online drukkerij besteld kan worden in grote getallen. De tekst wordt afgebeeld in het font 'Dosis' 10 pt, met een interlinie van 13 pt. 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EpBGEgUBCfhLlBIw5aKqsAcBYE-r2itBczZOUFbVcdp4Tg?e=JgAVxP" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download het briefpapier</button>
 </a>
@@ -37,6 +39,10 @@ Technische specificaties
 Afmeting | Tekst | Regelafstand
 ------------ | ------------- | ------------ 
 EA5/6 - 11X22 cm | Dosis 10pt | 13pt
+
+<br>
+Het logo staat altijd in de linkerbovenhoek van de enveloppe. De afmeting van deze enveloppe is 11 cm x 22 cm, dit is de enige maat van enveloppe die de vzw gebruikt. De adresgegevens op de enveloppe staan onder het logo en worden afgebeeld in het font 'Dosis' met een lettergrootte van 10 pt. 
+
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EpBGEgUBCfhLlBIw5aKqsAcBYE-r2itBczZOUFbVcdp4Tg?e=JgAVxP" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download enveloppes</button>
 </a>
@@ -52,10 +58,12 @@ De visitekaartjes hebben allemaal dezelfde voorkant, aan de acterkant zijn ze ve
 
 Technische specificaties
 
-Afmeting | Fonts | Papier
------------- | ------------- | ------------ 
-55mm x 85mm | Dosis | Uncoated
+Afmeting | Adres | Regelafstand | Naam | Regelafstand 
+------------ | ------------- | ------------ | ------------  
+55mm x 85mm | Dosis 8pt | 11pt | Dosis 8pt | 12pt
 
+<br>
+Voor de visitekaartjes gebruiken we een staand formaat van 55mm x 85 mm. De namen van de medewerkers worden afgebeeld in 12 pt en een bold versie, met een regelafstand van 12 pt. Adresgegevens staan in 8 pt met een interlinie van 11 pt. Aan de voorkant van het visitekaartje worden geen wijzigingen gebracht.
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/stepmese_student_arteveldehs_be/EXHngvl0B7JMq_3zBcxiS-0Bvi_hyzLmCeZEQeZ3hvnOhw?e=d5Ghdx" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download de template</button>
@@ -103,6 +111,13 @@ Afmeting | Afloop  | Fonts | Papier
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:p:/g/personal/stepmese_student_arteveldehs_be/ETND_QPiJIRGmUVOooQQMR0BGffV1bEbEEN9NfRV2MS02Q?e=aSPnXn" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download powerpoint template</button>
 </a>
+
+## ONDERZOEKSVERSLAG
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:p:/g/personal/stepmese_student_arteveldehs_be/ETND_QPiJIRGmUVOooQQMR0BGffV1bEbEEN9NfRV2MS02Q?e=aSPnXn" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download onderzoeksverslag template</button>
+</a>
+
 
 ## MUURDECORATIE
 
