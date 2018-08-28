@@ -43,7 +43,7 @@ Alle toepassingen zijn verzameld in een Google Drive map. Hieronder kan je ze ap
 </a>
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/En-axNW45RBHpVsWMO6YU8QBtqo-QOGX9jBWszW7iLh6VA?e=eAVc0o" target="_blank">
-<button class="btn btn-block btn-primary btntoepassing"> Download de bestanden</button>
+<button class="btn btn-block btn-primary btntoepassing"> Download de visitekaartjes</button>
 </a>
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EhQVpUEtzHZCmZUhtC8kROoBMLYaiu5fMSiOJ9U2h4ju3g?e=xdJRM4" target="_blank">
