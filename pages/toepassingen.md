@@ -43,7 +43,7 @@ EA5/6 - 11X22 cm | Dosis 10pt | 13pt
 <br>
 Het logo staat altijd in de linkerbovenhoek van de enveloppe. De afmeting van deze enveloppe is 11 cm x 22 cm, dit is de enige maat van enveloppe die de vzw gebruikt. De adresgegevens op de enveloppe staan onder het logo en worden afgebeeld in het font 'Dosis' met een lettergrootte van 10 pt. 
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EpBGEgUBCfhLlBIw5aKqsAcBYE-r2itBczZOUFbVcdp4Tg?e=JgAVxP" target="_blank">
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EWKQv3SmcmlKknOsQo4TWCsBJ6CQ4BFbczo-5T4pCcqwEA?e=15AmH6" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download enveloppes</button>
 </a>
 
@@ -74,7 +74,7 @@ Voor de visitekaartjes gebruiken we een staand formaat van 55mm x 85 mm. De name
 De folder geeft meer informatie over de werking van de vzw. Het wordt ontworpen op een standaard 3-luik formaat van 100 x 210 mm, zo kunnen ze makkelijk besteld worden in grote aantallen bij online drukkerijen.
 
 ![mijn afbeelding alt-txt]({{ '/images/folder1.png' | relative_url }}){: .w-50}
-![mijn afbeelding alt-txt]({{ '/images/folder2.png' | relative_url }}){: .w-75}
+![mijn afbeelding alt-txt]({{ '/images/folder2.png' | relative_url }}){: .w-100}
 
 
 <strong>TECHNISCHE SPECIFICATIES</strong>
@@ -84,7 +84,7 @@ De folder geeft meer informatie over de werking van de vzw. Het wordt ontworpen 
 <strong>Afbeeldingen:</strong> de afbeeldingen staan altijd in een rechthoekig vlak.<br>
 <strong>Titels:</strong> de titels worden geschreven in Dosis 30pt met 36pt interlinie.<br>
 <strong>Lopende tekst:</strong> lopende tekst wordt weergegeven in Dosis 11pt met 14pt interlinie. Wanneer er een extra klemtoon nodig is op bepaalde woorden, worden deze in bold geplaatst.<br>
-<strong>Bladschikking:</strong>op elk luik wordt er gewerkt in verschillende horizontale kolommen. Op elk luik komt minstens één luik of geel kleurenvlak voor. 
+<strong>Bladschikking:</strong> op elk luik wordt er gewerkt in verschillende horizontale kolommen. Op elk luik komt minstens één luik of geel kleurenvlak voor. 
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EhQVpUEtzHZCmZUhtC8kROoBMLYaiu5fMSiOJ9U2h4ju3g?e=xdJRM4" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download de folder</button>
@@ -142,7 +142,7 @@ Aangezien Antenne 3000 nu nog niet aanwezig is op sociale media, heb ik voor in 
 
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:i:/g/personal/stepmese_student_arteveldehs_be/EfbKQ2rGSwZMmuq1V22ahvgBwRbCGYfALn9ZUeusAjMtxg?e=pqdwSS" target="_blank">
-<button class="btn btn-block btn-primary btntoepassing"> Download banner</button>
+<button class="btn btn-block btn-primary btntoepassing"> Download facebook banner</button>
 </a>
 
 ## POWERPOINT
