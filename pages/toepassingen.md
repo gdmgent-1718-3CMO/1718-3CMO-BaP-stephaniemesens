@@ -18,9 +18,10 @@ Het briefpapier wordt gebruikt voor alle commerciële doeleinden en is ontworpen
 
 <strong>TECHNISCHE SPECIFICATIES</strong>
 
-Afmeting | Afloop  | Lopende tekst | Regelafstand
------------- | ------------- | ------------ | ------------ 
-210mm x 297mm | 3 mm  | Dosis 10pt | 13pt
+Afmeting | Afloop  | Lopende tekst | Regelafstand | Printen | Papier
+------------ | ------------- | ------------ | ------------ | ------------ | ------------ 
+210mm x 297mm | 3 mm  | Dosis 10pt | 13pt | Recto Quadri CMYK | 90 gram lasergeschikt
+
 
 <br>
 Het briefpapier is in lijn met de huisstijl van Antenne 3000, zo wordt er met gele vlakken gewerkt. Dit zorgt ervoor dat het papier een afloop heeft en zo bij een online drukkerij besteld kan worden in grote getallen. De tekst wordt afgebeeld in het font 'Dosis' 10 pt, met een interlinie van 13 pt. 
@@ -36,9 +37,9 @@ De enveloppes zijn vrij sober. Het logo zorgt in elk geval voor voldoende herken
 
 <strong>TECHNISCHE SPECIFICATIES</strong>
 
-Afmeting | Tekst | Regelafstand
------------- | ------------- | ------------ 
-EA5/6 - 11X22 cm | Dosis 10pt | 13pt
+Afmeting | Tekst | Regelafstand | Printen | Papier
+------------ | ------------- | ------------ | ------------- | ------------ 
+EA5/6 - 11X22 cm | Dosis 10pt | 13pt  | Recto Quadri CMYK  | 80 gram
 
 <br>
 Het logo staat altijd in de linkerbovenhoek van de enveloppe. De afmeting van deze enveloppe is 11 cm x 22 cm, dit is de enige maat van enveloppe die de vzw gebruikt. De adresgegevens op de enveloppe staan onder het logo en worden afgebeeld in het font 'Dosis' met een lettergrootte van 10 pt. 
@@ -58,9 +59,9 @@ De visitekaartjes hebben allemaal dezelfde voorkant, aan de acterkant zijn ze ve
 
 <strong>TECHNISCHE SPECIFICATIES</strong>
 
-Afmeting | Adres | Regelafstand | Naam | Regelafstand 
------------- | ------------- | ------------ | ------------  
-55mm x 85mm | Dosis 8pt | 11pt | Dosis 8pt | 12pt
+Afmeting | Adres | Regelafstand | Naam | Regelafstand | Printen | Papier
+------------ | ------------- | ------------ | ------------  | ------------ | ------------  
+55mm x 85mm | Dosis 8pt | 11pt | Dosis 8pt | 12pt | R/V Quadri CMYK  | 300 gram
 
 <br>
 Voor de visitekaartjes gebruiken we een staand formaat van 55mm x 85 mm. De namen van de medewerkers worden afgebeeld in 12 pt en een bold versie, met een regelafstand van 12 pt. Adresgegevens staan in 8 pt met een interlinie van 11 pt. Aan de voorkant van het visitekaartje worden geen wijzigingen gebracht.
@@ -84,7 +85,9 @@ De folder geeft meer informatie over de werking van de vzw. Het wordt ontworpen 
 <strong>Afbeeldingen:</strong> de afbeeldingen staan altijd in een rechthoekig vlak.<br>
 <strong>Titels:</strong> de titels worden geschreven in Dosis 30pt met 36pt interlinie.<br>
 <strong>Lopende tekst:</strong> lopende tekst wordt weergegeven in Dosis 11pt met 14pt interlinie. Wanneer er een extra klemtoon nodig is op bepaalde woorden, worden deze in bold geplaatst.<br>
-<strong>Bladschikking:</strong> op elk luik wordt er gewerkt in verschillende horizontale kolommen. Op elk luik komt minstens één luik of geel kleurenvlak voor. 
+<strong>Bladschikking:</strong> op elk luik wordt er gewerkt in verschillende horizontale kolommen. Op elk luik komt minstens één luik of geel kleurenvlak voor. <br>
+<strong>Papier:</strong> 135 gram mat maco <br>
+<strong>Vouw:</strong> zigzagvouw 
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EhQVpUEtzHZCmZUhtC8kROoBMLYaiu5fMSiOJ9U2h4ju3g?e=xdJRM4" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download de folder</button>
