@@ -24,7 +24,7 @@ Het icoon is een illustratie van een kind, de doelgroep waarop Antenne zich focu
 
 ## KLEUR
 
-In het logo wordt de <strong>blauwgroene kleur</strong> gebruikt die als basis gebruikt wordt in de huisstijl. Meer informatie over de kleur vind je hieronder of bij het onderdeel "kleur". 
+In het logo wordt de <strong>blauwgroene of gele kleur</strong> gebruikt die als basis gebruikt wordt in de huisstijl. De gele kleur wordt enkel gebruikt als het logo op een beeld wordt gebruikt. Meer informatie over de kleur vind je hieronder of bij het onderdeel "kleur". 
 
 
 ![logo]({{ '/images/blauw.svg' | relative_url }}){: .w-100}
@@ -35,6 +35,17 @@ In het logo wordt de <strong>blauwgroene kleur</strong> gebruikt die als basis g
 RGB | CMYK | HEX
 ------------ | ------------- | ------------ 
 26-73-85 | 100-48-47-44 |#1A4955
+
+<br>
+
+### GEEL
+
+![logo]({{ '/images/geel.svg' | relative_url }}){: .w-100}
+
+
+RGB | CMYK | HEX
+------------ | ------------- | ------------ 
+245-222-112 | 2-11-68-0 |#F5DE70
 
 <br>
 <br>
