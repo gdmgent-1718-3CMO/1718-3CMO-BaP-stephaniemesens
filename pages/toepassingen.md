@@ -80,7 +80,7 @@ De folder geeft meer informatie over de werking van de vzw. Het wordt ontworpen 
 
 <strong>TECHNISCHE SPECIFICATIES</strong>
 
-<strong>Afmeting:</strong> 3-luik formaat van 100 x 210 mm <br>
+<strong>Formaat:</strong> 3-luik formaat van 100 mm x 210 mm. Open: 300 mm x 210 mm - Gesloten: 100 mm x 210 mm<br>
 <strong>Marges:</strong> er wordt gewerkt met marges van 22mm bovenaan, 22mm onderaan en 12mm zowel links als rechts.<br>
 <strong>Afbeeldingen:</strong> de afbeeldingen staan altijd in een rechthoekig vlak.<br>
 <strong>Titels:</strong> de titels worden geschreven in Dosis 30pt met 36pt interlinie.<br>
@@ -88,6 +88,7 @@ De folder geeft meer informatie over de werking van de vzw. Het wordt ontworpen 
 <strong>Bladschikking:</strong> op elk luik wordt er gewerkt in verschillende horizontale kolommen. Op elk luik komt minstens één luik of geel kleurenvlak voor. <br>
 <strong>Papier:</strong> 135 gram mat maco <br>
 <strong>Vouw:</strong> zigzagvouw 
+
 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/EhQVpUEtzHZCmZUhtC8kROoBMLYaiu5fMSiOJ9U2h4ju3g?e=xdJRM4" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download de folder</button>
