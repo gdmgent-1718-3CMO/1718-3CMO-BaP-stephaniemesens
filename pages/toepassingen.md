@@ -156,6 +156,13 @@ Aangezien Antenne 3000 nu nog niet aanwezig is op sociale media, heb ik voor in 
 <button class="btn btn-block btn-primary btntoepassing"> Download powerpoint template</button>
 </a>
 
+## BANNER
+
+![mijn afbeelding alt-txt]({{ '/images/banner.png' | relative_url }}){: .w-100}
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:i:/g/personal/stepmese_student_arteveldehs_be/EQPjVHRy6yhGogbgfzWUwgkBu9GkCwpeYyPV_G2GHZC1fA?e=EEAX3C" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download banner</button>
+</a>
 
 
 ## MUURDECORATIE
