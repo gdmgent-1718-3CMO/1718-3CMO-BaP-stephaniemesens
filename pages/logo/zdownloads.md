@@ -1,6 +1,6 @@
 ---
 layout: vertical
-permalink: logo/downloads
+permalink: logo/zdownloads
 published: true
 title: Downloads
 ---

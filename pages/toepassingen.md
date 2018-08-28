@@ -51,7 +51,7 @@ Het logo staat altijd in de linkerbovenhoek van de enveloppe. De afmeting van de
 
 ## VISITEKAARTJES
 
-De visitekaartjes hebben allemaal dezelfde voorkant, aan de acterkant zijn ze verschillend voor elke discipline. Dit wordt subtiel duidelijk gemaakt door een verschillend icoon in de recterbovenhoek. 
+De visitekaartjes hebben allemaal dezelfde voorkant, aan de acterkant zijn ze verschillend voor elke discipline. Dit wordt subtiel duidelijk gemaakt door een verschillend icoon in de rechterbovenhoek. 
 
 ![mijn afbeelding alt-txt]({{ '/images/visitekaartjes.svg' | relative_url }}){: .w-100}
 ![mijn afbeelding alt-txt]({{ '/images/visitetechnisch.svg' | relative_url }}){: .w-50}
@@ -65,8 +65,8 @@ Afmeting | Adres | Regelafstand | Naam | Regelafstand
 <br>
 Voor de visitekaartjes gebruiken we een staand formaat van 55mm x 85 mm. De namen van de medewerkers worden afgebeeld in 12 pt en een bold versie, met een regelafstand van 12 pt. Adresgegevens staan in 8 pt met een interlinie van 11 pt. Aan de voorkant van het visitekaartje worden geen wijzigingen gebracht.
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/stepmese_student_arteveldehs_be/EXHngvl0B7JMq_3zBcxiS-0Bvi_hyzLmCeZEQeZ3hvnOhw?e=d5Ghdx" target="_blank">
-<button class="btn btn-block btn-primary btntoepassing"> Download de template</button>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/stepmese_student_arteveldehs_be/En-axNW45RBHpVsWMO6YU8QBtqo-QOGX9jBWszW7iLh6VA?e=eAVc0o" target="_blank">
+<button class="btn btn-block btn-primary btntoepassing"> Download de bestanden</button>
 </a>
   
 ## FOLDER
@@ -79,7 +79,7 @@ De folder geeft meer informatie over de werking van de vzw. Het wordt ontworpen 
 
 <strong>TECHNISCHE SPECIFICATIES</strong>
 
-<strong>Afmeting:</strong> 3-luik formaat van 100 x 210 mm
+<strong>Afmeting:</strong> 3-luik formaat van 100 x 210 mm <br>
 <strong>Marges:</strong> er wordt gewerkt met marges van 22mm bovenaan, 22mm onderaan en 12mm zowel links als rechts.<br>
 <strong>Afbeeldingen:</strong> de afbeeldingen staan altijd in een rechthoekig vlak.<br>
 <strong>Titels:</strong> de titels worden geschreven in Dosis 30pt met 36pt interlinie.<br>
@@ -96,7 +96,14 @@ Voor de website werden duidelijke huisstijlelementen van Antenne 3000 gebruikt, 
 
 ![mijn afbeelding alt-txt]({{ '/images/website.png' | relative_url }}){: .w-100}
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/EbS_HWtUMeFJngqMKIMH39EBcsrrN1ntIMOIRxyiDn4U6A?e=qzRmds" target="_blank">
+### FUNCITONALITEITEN
+
+In onderstaande afbeeldingen worden de belangrijkste funcitonaliteiten van e website toegelicht, belangrijk bij het ontwerpen van de website.
+
+![mijn afbeelding alt-txt]({{ '/images/website_functionaliteiten.svg' | relative_url }}){: .w-75}
+
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:b:/g/personal/stepmese_student_arteveldehs_be/ESqBgWr_Fo5JlbEUO0NvyR0Bg2GBj4ELDI-NTnfeOp5CNw?e=LKewDZ" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download website ontwerp</button>
 </a>
 
@@ -148,13 +155,6 @@ Aangezien Antenne 3000 nu nog niet aanwezig is op sociale media, heb ik voor in 
 <a href="https://studentarteveldehsbe-my.sharepoint.com/:p:/g/personal/stepmese_student_arteveldehs_be/ETND_QPiJIRGmUVOooQQMR0BGffV1bEbEEN9NfRV2MS02Q?e=aSPnXn" target="_blank">
 <button class="btn btn-block btn-primary btntoepassing"> Download powerpoint template</button>
 </a>
-
-## ONDERZOEKSVERSLAG
-
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:p:/g/personal/stepmese_student_arteveldehs_be/ETND_QPiJIRGmUVOooQQMR0BGffV1bEbEEN9NfRV2MS02Q?e=aSPnXn" target="_blank">
-<button class="btn btn-block btn-primary btntoepassing"> Download onderzoeksverslag template</button>
-</a>
-
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: vertical
-permalink: logo/logo
+permalink: logo/algemeen
 published: true
 title: Logo
 ---
@@ -38,7 +38,7 @@ RGB | CMYK | HEX
 
 <br>
 <br>
-Wanneer het logo gebruikt wordt op een toepassing die in <strong>grijswaarden</strong> wordt afgeprint, moet de <strong>zwarte versie</strong> van het logo gebruikt worden.
+Wanneer het logo gebruikt wordt op een toepassing die in <strong>grijswaarden</strong> wordt afgeprint, moet de <strong>zwarte versie</strong> van het logo gebruikt worden. Zo is het logo duidelijker wanneer het geprint wordt.
 
 ![logo]({{ '/images/logozwart.svg' | relative_url }}){: .w-25}
 
@@ -46,4 +46,5 @@ Wanneer het logo gebruikt wordt op een toepassing die in <strong>grijswaarden</s
 ## TYPOGRAFIE
   
 Voor dit logo werd het font <strong>'Dosis'</strong> als basis gebruikt. Dit werd nog bewerkt door de 'a' te vervormen en zo de ruimte meer op te vullen en een mooier geheel te creëeren.
+De letters staan in dezelfde dikte en stijl als het icoon, dit geeft het logo meer samenhang.
   
